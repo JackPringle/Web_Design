@@ -93,8 +93,8 @@ h2, h3, h4 {
 
 /* links in page */
 a {font-weight: bold;}
-a:link{color: #AA0000;} /*dark_red */
-a:visited{color: #111177;} /* dark blue */
+a:link{color: #AA0000;} /*dark red */
+a:visited{color: #AA0000;} /* dark red  */
 a:hover{color: #509d8c;}    /* teal colour */
 
 
