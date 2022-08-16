@@ -106,7 +106,7 @@ a:hover{color: #509d8c;}    /* teal colour */
 
 .img-circle {
     border-radius: 50%;
-    max-width: 85%;
+    max-width: 30%;
     height: auto;
     box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.8);     
 }
