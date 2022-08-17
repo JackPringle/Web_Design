@@ -2,7 +2,7 @@ body {
     margin: auto;
     padding: 50px;
     color: #000;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Mono', monospace;
 }
 
 
@@ -54,13 +54,14 @@ body {
 .main {
     grid-area: main;
     background-color: #EEE;  /* very pale grey */
-    border: solid 1px #CCC;
+    border: solid 10px #CCC;
 }
 
 
 .footer {
     grid-area: footer;
     text-align: right;
+    background-color: #6d3434;
 }
 
 /* -000- End of area styling -000- */
@@ -87,7 +88,8 @@ a:hover{color: #000;}    /* Black*/
     border-radius: 50%;
     max-width: 85%;
     height: auto;
-    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.8);     
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.8); 
+    border: solid 5px #000;    
 }
 
 .center_image {
